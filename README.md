@@ -22,7 +22,7 @@ PS> Install-Module -Name MicrosoftTeams
 ```
 
 ## Version Control
-- Name: O365 Auditing - PowerShell
+- Name: README.MD
 - Author: Zak Clifford 
 
 
